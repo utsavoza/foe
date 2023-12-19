@@ -1,0 +1,6 @@
+venv
+.idea
+*.png
+*.npy
+keras_logs
+__pycache__
